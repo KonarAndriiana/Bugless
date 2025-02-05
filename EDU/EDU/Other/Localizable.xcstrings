@@ -1,0 +1,464 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "    Welcome to Courses. \n    Please choose a course to see lectures" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vitajte v kurzoch.\nVyberte kurz, aby ste si pozreli prednášky."
+          }
+        }
+      }
+    },
+    "%@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "👀" : {
+
+    },
+    "Basic Java Syntax" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Základná syntax Javy"
+          }
+        }
+      }
+    },
+    "Before we start" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Predtým, než začneme"
+          }
+        }
+      }
+    },
+    "Choose the language you want to use" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyberte jazyk, ktorý chcete použiť"
+          }
+        }
+      }
+    },
+    "Content" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obsah"
+          }
+        }
+      }
+    },
+    "Courses" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurz"
+          }
+        }
+      }
+    },
+    "cssActionText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock the power of design and make the web beautiful with cascading styles.\n                                \n- Selectors\n- Flexbox\n- Grid\n- Animations\n- Responsive Design\n                                \nCSS stands for \"Cascading Style Sheets,\" but some devs joke it means \"Can’t Style Stuff\" when debugging weird layout bugs. 😬"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odomknite silu dizajnu a spravte web krásnym pomocou kaskádových štýlov.\n\n-Selektory\n-Flexbox\n-Grid\n-Animácie\n-Reaktívny dizajn\n\nCSS znamená \"Cascading Style Sheets,\" ale niektorí vývojári si robia žarty, že to znamená \"Can’t Style Stuff\" (Nedokážem nastylovať veci) pri ladení divných problémov s rozložením. 😬"
+          }
+        }
+      }
+    },
+    "Dark Theme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark Theme"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tmavý režim"
+          }
+        }
+      }
+    },
+    "Email" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
+          }
+        }
+      }
+    },
+    "English" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angličtina"
+          }
+        }
+      }
+    },
+    "Favorite Courses" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obľúbené kurzy"
+          }
+        }
+      }
+    },
+    "Find Your" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nájdite svoje"
+          }
+        }
+      }
+    },
+    "Get Started" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začať"
+          }
+        }
+      }
+    },
+    "Getting Started with Java" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getting Started with Java"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začiatky s Javou"
+          }
+        }
+      }
+    },
+    "htmlActionText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn to structure the web with the language that started it all.\n                                \n- Semantic HTML\n- Forms\n- Multimedia Elements\n- Accessibility\n                                \nThe <blink> tag was so annoying it was banished from HTML. RIP <blink>; you won’t be missed. 👀"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naučte sa štruktúrovať web pomocou jazyka, ktorý to všetko začal.\n\n-Sémantický HTML\n-Formuláre\n-Multimediálne prvky\n-Prístupnosť\n\nTag <blink> bol tak otravný, že bol z HTML vyhnaný. RIP <blink>; nebudeš nám chýbať. 👀"
+          }
+        }
+      }
+    },
+    "Incorrect password. Please try again." : {
+      "comment" : "Wrong password error",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nesprávne heslo. Skúste to prosím znovu."
+          }
+        }
+      }
+    },
+    "Invalid email format. Please check your email." : {
+      "comment" : "Invalid email error",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neplatný formát emailu. Skontrolujte prosím svoj email."
+          }
+        }
+      }
+    },
+    "Java is a versatile programming language known for its scalability and robust performance. In this session, we'll explore Java's foundational syntax, focusing on variable declaration and manipulation.\n\n                Java Syntax:\n                Java employs a structured syntax where every statement ends with a semicolon (`;`). A Java application typically starts with a class definition and includes a `main` method as the entry point for execution.\n\n                Variables in Java:\n                Variables store data in a program and are defined by specific data types. Here are some commonly used types:\n                - `int`: For whole numbers\n                - `float`: For fractional numbers with less precision\n                - `String`: To store text\n                - `char`: To store a single character\n\n                In the next section, we'll see how to declare and initialize variables in Java." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Java is a versatile programming language known for its scalability and robust performance. In this session, we'll explore Java's foundational syntax, focusing on variable declaration and manipulation.\n\nJava Syntax:\nJava employs a structured syntax where every statement ends with a semicolon (`;`). A Java application typically starts with a class definition and includes a `main` method as the entry point for execution.\n\nVariables in Java:\nVariables store data in a program and are defined by specific data types. Here are some commonly used types:\n- `int`: For whole numbers\n- `float`: For fractional numbers with less precision\n- `String`: To store text\n- `char`: To store a single character\n\nIn the next section, we'll see how to declare and initialize variables in Java."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Java je univerzálny programovací jazyk, známy svojou škálovateľnosťou a robustným výkonom. V tejto sekcii preskúmame základnú syntax Javy, so zameraním na deklaráciu a manipuláciu s premennými.\n\nSyntax Javy: Java používa štruktúrovanú syntax, kde každý príkaz končí bodkočiarkou (;). Java aplikácia zvyčajne začína definíciou triedy a obsahuje metódu main, ktorá slúži ako vstupný bod pre vykonanie programu.\n\nPremenné v Jave: Premenné ukladajú údaje v programe a sú definované špecifickými dátovými typmi. Tu sú niektoré bežne používané typy:\n\n-int: Pre celé čísla\n-float: Pre zlomkové čísla s menšou presnosťou\n-String: Pre ukladanie textu\n-char: Pre ukladanie jedného znaku\n\nV nasledujúcej sekcii uvidíme, ako deklarovať a inicializovať premenné v Jave."
+          }
+        }
+      }
+    },
+    "javaActionText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the foundation of object-oriented programming and build robust applications that can run anywhere, anytime.\n                                \n- Core Java\n- OOP Principles\n- Collections Framework\n- Streams\n- Multithreading\n                                \n\"Write Once, Debug Everywhere\" is the unofficial motto of Java developers dealing with cross-platform quirks. 😅"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preskúmajte základy objektovo orientovaného programovania a vytvorte robustné aplikácie, ktoré môžu bežať kdekoľvek a kedykoľvek.\n\n-Základný Java\n-Princípy OOP\n-Rámec kolekcií\n-Streamy\n-Multithreading\n\n„Napísať raz, debugovať všade“ je neoficiálne motto Java vývojárov, ktorí sa stretávajú s nejasnosťami medzi platformami. 😅"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jazyk"
+          }
+        }
+      }
+    },
+    "Light Theme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svetlý režim"
+          }
+        }
+      }
+    },
+    "Log In" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Prihlásiť sa"
+          }
+        }
+      }
+    },
+    "Log Out" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odhlásiť sa"
+          }
+        }
+      }
+    },
+    "Network error. Please check your connection." : {
+      "comment" : "Network error",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chyba siete. Skontrolujte svoje pripojenie."
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heslo"
+          }
+        }
+      }
+    },
+    "Please check your input information and try again." : {
+      "comment" : "Default error",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skontrolujte prosím svoje zadané informácie a skúste to znovu."
+          }
+        }
+      }
+    },
+    "pythonActionText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dive into one of the most versatile programming languages and bring your ideas to life.\n                                \n- Data Types\n- Control Structures\n- Libraries\n- APIs\n                                \nPython's print(\"Hello, World!\") is the first thing you’ll learn when starting with Python. 👋"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ponorte sa do jedného z najviac univerzálnych programovacích jazykov a oživte svoje nápady.\n\n-Dátové typy\n-Riadiace štruktúry\n-Knižnice\n-APIs\n\nPythonova print(\"Hello, World!\") je prvá vec, ktorú sa naučíte pri začiatkoch s Pythonom. 👋"
+          }
+        }
+      }
+    },
+    "Slovak" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slovenčina"
+          }
+        }
+      }
+    },
+    "sqlActionText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dive into the heart of data management and unlock the secrets of relational databases with SQL! 💾✨\n                                \n- Data Queries (SELECT)\n- Filtering Data (WHERE)\n- Combining Tables (JOINs)\n- Aggregate Magic (COUNT, SUM, AVG)\n- Transactions (BEGIN, COMMIT, ROLLBACK)\n                                \nSQL stands for \"Structured Query Language,\" but when debugging tricky queries, some devs joke it means \"Slightly Questionable Logic\" instead. 😅"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ponorte sa do srdca správy dát a odomknite tajomstvá relačných databáz pomocou SQL! 💾✨\n\n-Dotazy na dáta (SELECT)\n-Filtrovanie dát (WHERE)\n-Kombinácia tabuliek (JOINs)\n-Agregačné kúzla (COUNT, SUM, AVG)\n-Transakcie (BEGIN, COMMIT, ROLLBACK)\n \nSQL znamená „Structured Query Language“ (Štruktúrovaný dotazovací jazyk), ale pri ladení zložitých dotazov niektorí vývojári žartujú, že to znamená „Slightly Questionable Logic“ (Trochu sporná logika). 😅"
+          }
+        }
+      }
+    },
+    "The email is already in use by another account." : {
+      "comment" : "Email already in use error",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tento email je už používaný iným účtom."
+          }
+        }
+      }
+    },
+    "This account has been disabled. Please contact support." : {
+      "comment" : "Account disabled error",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tento účet bol deaktivovaný. Kontaktujte prosím podporu."
+          }
+        }
+      }
+    },
+    "Too many login attempts. Please try again later." : {
+      "comment" : "Too many requests error",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Príliš veľa pokusov o prihlásenie. Skúste to prosím neskôr."
+          }
+        }
+      }
+    },
+    "Topics Covered" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prebrané témy"
+          }
+        }
+      }
+    },
+    "User not found. Please check your email." : {
+      "comment" : "User not found error",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Užívateľ nebol nájdený. Skontrolujte prosím svoj email."
+          }
+        }
+      }
+    },
+    "welcomeText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to Courses. \nPlease choose a course to see lectures"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vitajte v kurzoch.\nVyberte kurz, aby ste si pozreli prednášky."
+          }
+        }
+      }
+    },
+    "Working with Variables" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Práca s premennými"
+          }
+        }
+      }
+    },
+    "You need to write in fields belows your school email and password from your school Edupage" : {
+      "localizations" : {
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musíte zadať do polí nižšie svoj školský email a heslo z Edupage vašej školy."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
